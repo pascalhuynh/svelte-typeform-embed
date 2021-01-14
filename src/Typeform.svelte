@@ -63,4 +63,4 @@
     });
 </script>
 
-<div id="svelte-typeform-embed" style={styleApplyed} bind:this={myElement} />
+<div id="svelte-typeform-embed" bind:this={myElement} />
